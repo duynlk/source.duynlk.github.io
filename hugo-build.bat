@@ -7,7 +7,7 @@ git commit -m "%msg%"
 git push
 xcopy /s /y public ..\duyka-public
 cd ..
-cd duynlk.github.io
+cd duyka-public
 git add .
 git commit -m "%msg%"
 git push
