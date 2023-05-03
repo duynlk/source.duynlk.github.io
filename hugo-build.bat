@@ -5,7 +5,7 @@ hugo -D
 git add .
 git commit -m "%msg%"
 git push
-xcopy /s /y public ..\duynlk.github.io
+xcopy /s /y public ..\duyka-public
 cd ..
 cd duynlk.github.io
 git add .
