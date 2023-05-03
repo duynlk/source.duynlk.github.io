@@ -2,8 +2,8 @@ baseURL: "https://duynlk.github.io/"
 theme: "papermod"
 title: "DuyKa's Blog"
 Copyright: |
-        © 2020 - 2023 DuyKa's Blog | [Find me on Github](https://github.com/duynlk/source.duynlk.github.io)  
-        or contact: nguyenlukhanhduy@gmail.com
+        © 2020 - 2023 DuyKa's Blog  
+        nguyenlukhanhduy@gmail.com
 paginate: 10
 disableHugoGeneratorInject: true
 outputs:
