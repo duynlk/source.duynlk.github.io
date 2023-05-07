@@ -4,7 +4,7 @@ date: 2023-05-03T23:07:27+07:00
 contest: false
 translate-poem: true
 translate-music: false
-tags: ["dịch thơ", "gia đình", "Bến Tre"]
+tags: ["dịch thơ", "gia đình", "Bến Tre", "Julia Michaels", "thơ Mỹ"]
 ---
 **I miss you daddy**  
 *Tác giả: Julia Michaels (Mỹ)*  

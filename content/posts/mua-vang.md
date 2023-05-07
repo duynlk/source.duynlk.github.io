@@ -4,7 +4,7 @@ date: 2023-04-18T23:14:50+07:00
 contest: false
 translate-poem: true
 translate-music: false
-tags: ["dịch thơ", "chiến tranh", "Cần Thơ"]
+tags: ["dịch thơ", "chiến tranh", "Cần Thơ", "Mai Der Vang", "thơ Mỹ"]
 ---
 **Yellow rain**  
 *Tác giả: Mai Der Vang (Mỹ)*  
