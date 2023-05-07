@@ -45,7 +45,7 @@ và đi mất, nói, "Ồ thôi."
   
 ***
   
-**Bản dịch của DuyKa:**  
+**DuyKa phỏng dịch:**  
   
 Giờ tôi chẳng hay gì nữa  
 chỉ thích nhìn lũ chim sâu  

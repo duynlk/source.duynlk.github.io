@@ -149,7 +149,7 @@ Con thương nhớ bố ngập lòng bố ơi!
   
 ***
   
-**Bản dịch của DuyKa:**  
+**DuyKa phỏng dịch:**  
   
 Ba ơi, 1 năm qua  
 con nhớ ba nhiều lắm  
