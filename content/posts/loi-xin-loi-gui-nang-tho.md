@@ -4,7 +4,7 @@ date: 2023-05-07T21:16:39+07:00
 contest: false
 translate-poem: true
 translate-music: false
-tags: ["dịch thơ", "Cần Thơ", "Alan Dugan", "thơ Mỹ"]
+tags: ["dịch thơ", "Cần Thơ", "Alan Dugan", "thơ Mỹ", "tình yêu"]
 ---
 **Apology (to the Muse)**  
 *Tác giả: Alan Dugan (Mỹ)*  

@@ -2,7 +2,7 @@
 title: "Cho tôi về"
 date: 2023-02-18T20:51:54+07:00
 contest: true
-tags: ["gia đình", "bài dự thi", "chứng nhận tham gia", "Cần Thơ"]
+tags: ["gia đình", "bài dự thi", "chứng nhận tham gia", "Cần Thơ", "Những Ngón Tay Đan"]
 ---
 *Bài tham dự Minigame "Không Chơi Cũng Phải Chơi" do Group Facebook "Những Ngón Tay Đan" tổ chức. Chủ đề: Mùa Gió Cũ.*  
   
