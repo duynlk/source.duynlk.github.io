@@ -31,6 +31,9 @@ nói câu từ biệt,
 dù chung đất - trời  
   
 Xui nhau lại giấc luân hồi  
-đắng cay xin trả, giữ lời ăn năn ..
+đắng cay xin trả, giữ lời ăn năn  
+  
+Cho em qua bước thăng trầm  
+an yên là lúc chẳng cần đến ai ..   
   
 *Cần Thơ, 2023.05.21*
