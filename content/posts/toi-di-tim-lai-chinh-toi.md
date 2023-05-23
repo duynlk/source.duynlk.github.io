@@ -6,6 +6,8 @@ tags: ["trải nghiệm", "bài dự thi", "Cần Thơ"]
 ---
 *Bài tham dự minigame "Mượn Hình Tỏ Chữ" do Fanpage "HIVE Stories - Nơi những câu chuyện bắt đầu" tổ chức.*  
   
+[Tuyển tập thơ Mượn Hình Tỏ Chữ](https://truyennhaong.vn/#/s/tuyen-tap-tho-muon-hinh-to-chu)
+  
 \* \* \*
   
 Tôi đi tìm lại chính tôi  

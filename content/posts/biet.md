@@ -36,4 +36,7 @@ Xui nhau lại giấc luân hồi
 Cho em qua bước thăng trầm  
 an yên là lúc chẳng cần đến ai ..   
   
-*Cần Thơ, 2023.05.21*
+*Cần Thơ, 2023.05.21*  
+  
+![Biệt - DuyKa](/img/biet.jpg "Biệt - DuyKa")
+*Banner do Ban Tổ Chức thiết kế.*
