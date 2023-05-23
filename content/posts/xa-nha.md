@@ -32,10 +32,12 @@ Sau những vinh quang
 là nhiều đánh đổi  
 tóc cha bạc rồi  
 mẹ thường nhức mỏi  
-tôi bận bôn ba  
+  
+Tôi bận bôn ba  
 giữa đời vạn lối  
 sống theo lòng người  
 vui, buồn, chậm, vội  
+..  
 nhưng mà ráng thôi!
   
 \* \* \*
