@@ -33,19 +33,20 @@ title: "Mục Lục"
 30. [Những nấm mồ của chúng ta](/posts/nhung-nam-mo-cua-chung-ta)
 31. [Những ngày cuối năm](/posts/nhung-ngay-cuoi-nam)
 32. [Nỗi buồn Covid](/posts/noi-buon-covid)
-33. [Phượng](/posts/phuong)
-34. [Poetry for Liv.](/posts/poetry-for-liv)
-35. [Thơ này con thả lên trời, Ngoại nghe!](/posts/tho-nay-con-tha-len-troi-ngoai-nghe)
-36. [Thôi thế là thôi nhé!](/posts/thoi-the-la-thoi-nhe)
-37. [Tình âm dương](/posts/tinh-am-duong)
-38. [Tôi đi tìm lại chính tôi](/posts/toi-di-tim-lai-chinh-toi) *(Bài dự thi)*
-39. [Tôi sẽ về, Huế ơi!](/posts/toi-se-ve-hue-oi) *(Bài dự thi)*
-40. [Trên một mặt trăng hồng (On a pink moon)](/posts/tren-mot-mat-trang-hong) *(Dịch thơ)*
-41. [Uống trà với bố](/posts/uong-tra-voi-bo)
-42. [Vẫn là em thôi](/posts/van-la-em-thoi)
-43. [Về nhà Mẹ chỉ có thương thôi](/posts/ve-nha-me-chi-co-thuong-thoi)
-44. [Về quê nội](/posts/ve-que-noi)
-45. [Về với mẹ (II)](/posts/ve-voi-me-2)
-46. [Về với mẹ](/posts/ve-voi-me) *(Bài dự thi)*
-47. [Vỡ](/posts/vo)
-48. [Xa nhà](/posts/xa-nha) *(Bài dự thi)*
+33. [Phượng (II)](/posts/phuong-2)
+34. [Phượng](/posts/phuong)
+35. [Poetry for Liv.](/posts/poetry-for-liv)
+36. [Thơ này con thả lên trời, Ngoại nghe!](/posts/tho-nay-con-tha-len-troi-ngoai-nghe)
+37. [Thôi thế là thôi nhé!](/posts/thoi-the-la-thoi-nhe)
+38. [Tình âm dương](/posts/tinh-am-duong)
+39. [Tôi đi tìm lại chính tôi](/posts/toi-di-tim-lai-chinh-toi) *(Bài dự thi)*
+40. [Tôi sẽ về, Huế ơi!](/posts/toi-se-ve-hue-oi) *(Bài dự thi)*
+41. [Trên một mặt trăng hồng (On a pink moon)](/posts/tren-mot-mat-trang-hong) *(Dịch thơ)*
+42. [Uống trà với bố](/posts/uong-tra-voi-bo)
+43. [Vẫn là em thôi](/posts/van-la-em-thoi)
+44. [Về nhà Mẹ chỉ có thương thôi](/posts/ve-nha-me-chi-co-thuong-thoi)
+45. [Về quê nội](/posts/ve-que-noi)
+46. [Về với mẹ (II)](/posts/ve-voi-me-2)
+47. [Về với mẹ](/posts/ve-voi-me) *(Bài dự thi)*
+48. [Vỡ](/posts/vo)
+49. [Xa nhà](/posts/xa-nha) *(Bài dự thi)*
