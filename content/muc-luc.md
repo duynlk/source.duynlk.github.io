@@ -35,18 +35,19 @@ title: "Mục Lục"
 32. [Nỗi buồn Covid](/posts/noi-buon-covid)
 33. [Phượng (II)](/posts/phuong-2)
 34. [Phượng](/posts/phuong)
-35. [Poetry for Liv.](/posts/poetry-for-liv)
-36. [Thơ này con thả lên trời, Ngoại nghe!](/posts/tho-nay-con-tha-len-troi-ngoai-nghe)
-37. [Thôi thế là thôi nhé!](/posts/thoi-the-la-thoi-nhe)
-38. [Tình âm dương](/posts/tinh-am-duong)
-39. [Tôi đi tìm lại chính tôi](/posts/toi-di-tim-lai-chinh-toi) *(Bài dự thi)*
-40. [Tôi sẽ về, Huế ơi!](/posts/toi-se-ve-hue-oi) *(Bài dự thi)*
-41. [Trên một mặt trăng hồng (On a pink moon)](/posts/tren-mot-mat-trang-hong) *(Dịch thơ)*
-42. [Uống trà với bố](/posts/uong-tra-voi-bo)
-43. [Vẫn là em thôi](/posts/van-la-em-thoi)
-44. [Về nhà Mẹ chỉ có thương thôi](/posts/ve-nha-me-chi-co-thuong-thoi)
-45. [Về quê nội](/posts/ve-que-noi)
-46. [Về với mẹ (II)](/posts/ve-voi-me-2)
-47. [Về với mẹ](/posts/ve-voi-me) *(Bài dự thi)*
-48. [Vỡ](/posts/vo)
-49. [Xa nhà](/posts/xa-nha) *(Bài dự thi)*
+35. [Poetry for FSoft's friend](/posts/poetry-for-fsoft-friend)
+36. [Poetry for Liv.](/posts/poetry-for-liv)
+37. [Thơ này con thả lên trời, Ngoại nghe!](/posts/tho-nay-con-tha-len-troi-ngoai-nghe)
+38. [Thôi thế là thôi nhé!](/posts/thoi-the-la-thoi-nhe)
+39. [Tình âm dương](/posts/tinh-am-duong)
+40. [Tôi đi tìm lại chính tôi](/posts/toi-di-tim-lai-chinh-toi) *(Bài dự thi)*
+41. [Tôi sẽ về, Huế ơi!](/posts/toi-se-ve-hue-oi) *(Bài dự thi)*
+42. [Trên một mặt trăng hồng (On a pink moon)](/posts/tren-mot-mat-trang-hong) *(Dịch thơ)*
+43. [Uống trà với bố](/posts/uong-tra-voi-bo)
+44. [Vẫn là em thôi](/posts/van-la-em-thoi)
+45. [Về nhà Mẹ chỉ có thương thôi](/posts/ve-nha-me-chi-co-thuong-thoi)
+46. [Về quê nội](/posts/ve-que-noi)
+47. [Về với mẹ (II)](/posts/ve-voi-me-2)
+48. [Về với mẹ](/posts/ve-voi-me) *(Bài dự thi)*
+49. [Vỡ](/posts/vo)
+50. [Xa nhà](/posts/xa-nha) *(Bài dự thi)*
