@@ -38,16 +38,17 @@ title: "Mục Lục"
 35. [Poetry for FSoft's friend](/posts/poetry-for-fsoft-friend)
 36. [Poetry for Liv.](/posts/poetry-for-liv)
 37. [Thơ này con thả lên trời, Ngoại nghe!](/posts/tho-nay-con-tha-len-troi-ngoai-nghe)
-38. [Thôi thế là thôi nhé!](/posts/thoi-the-la-thoi-nhe)
-39. [Tình âm dương](/posts/tinh-am-duong)
-40. [Tôi đi tìm lại chính tôi](/posts/toi-di-tim-lai-chinh-toi) *(Bài dự thi)*
-41. [Tôi sẽ về, Huế ơi!](/posts/toi-se-ve-hue-oi) *(Bài dự thi)*
-42. [Trên một mặt trăng hồng (On a pink moon)](/posts/tren-mot-mat-trang-hong) *(Dịch thơ)*
-43. [Uống trà với bố](/posts/uong-tra-voi-bo)
-44. [Vẫn là em thôi](/posts/van-la-em-thoi)
-45. [Về nhà Mẹ chỉ có thương thôi](/posts/ve-nha-me-chi-co-thuong-thoi)
-46. [Về quê nội](/posts/ve-que-noi)
-47. [Về với mẹ (II)](/posts/ve-voi-me-2)
-48. [Về với mẹ](/posts/ve-voi-me) *(Bài dự thi)*
-49. [Vỡ](/posts/vo)
-50. [Xa nhà](/posts/xa-nha) *(Bài dự thi)*
+38. [Thôi, buông em nhé!](/posts/thoi-buong-em-nhe)
+39. [Thôi thế là thôi nhé!](/posts/thoi-the-la-thoi-nhe)
+40. [Tình âm dương](/posts/tinh-am-duong)
+41. [Tôi đi tìm lại chính tôi](/posts/toi-di-tim-lai-chinh-toi) *(Bài dự thi)*
+42. [Tôi sẽ về, Huế ơi!](/posts/toi-se-ve-hue-oi) *(Bài dự thi)*
+43. [Trên một mặt trăng hồng (On a pink moon)](/posts/tren-mot-mat-trang-hong) *(Dịch thơ)*
+44. [Uống trà với bố](/posts/uong-tra-voi-bo)
+45. [Vẫn là em thôi](/posts/van-la-em-thoi)
+46. [Về nhà Mẹ chỉ có thương thôi](/posts/ve-nha-me-chi-co-thuong-thoi)
+47. [Về quê nội](/posts/ve-que-noi)
+48. [Về với mẹ (II)](/posts/ve-voi-me-2)
+49. [Về với mẹ](/posts/ve-voi-me) *(Bài dự thi)*
+50. [Vỡ](/posts/vo)
+51. [Xa nhà](/posts/xa-nha) *(Bài dự thi)*
