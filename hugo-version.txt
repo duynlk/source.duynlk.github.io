@@ -1,0 +1,1 @@
+hugo v0.115.1-857374e69358f788bd31ddc55255c5c8e3dcfd80 windows/amd64 BuildDate=2023-07-03T17:28:25Z VendorInfo=gohugoio
