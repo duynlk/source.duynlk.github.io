@@ -18,7 +18,7 @@ nội có về ăn với con không?
   
 Con thèm nghe chuyện ngày xưa quá  
 nhưng chẳng còn ai kể nữa rồi  
-nội đi phương ấy lòng than thản  
+nội đi phương ấy lòng thanh thản  
 sân nhà thêm một trái cau rơi ..  
   
 *Cần Thơ, 2023.09.07*
