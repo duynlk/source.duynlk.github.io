@@ -4,7 +4,7 @@ date: 2023-06-25T20:29:40+07:00
 contest: false
 translate-poem: false
 translate-music: false
-tags: ["tình yêu", "Bến Tre"]
+tags: ["tình yêu", "Bến Tre", "thơ phổ nhạc"]
 ---
 Em về đi nhé  
 người ta quên rồi  
@@ -26,4 +26,7 @@ Thôi, buông em nhé
 chỉ cần vui vẻ  
 chẳng cần chi ai ..  
   
-*Bến Tre, 2023.06.25*
+*Bến Tre, 2023.06.25*  
+  
+<video src="/video/thoi-buong-em-nhe.mp4" controls></video>  
+*Phổ nhạc và trình bày: [Hien Nguyen](https://www.youtube.com/watch?v=j151jUMTuIA&list=WL&index=2&ab_channel=HienNguyen)*

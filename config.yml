@@ -6,6 +6,10 @@ Copyright: |
         nguyenlukhanhduy@gmail.com
 paginate: 10
 disableHugoGeneratorInject: true
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
 outputs:
     home:
         - HTML
