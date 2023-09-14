@@ -28,5 +28,5 @@ chẳng cần chi ai ..
   
 *Bến Tre, 2023.06.25*  
   
-<video src="/video/thoi-buong-em-nhe.mp4" controls></video>  
+<video src="/video/thoi-buong-em-nhe.mp4" controls style="width:100%"></video>  
 *Phổ nhạc và trình bày: [Hien Nguyen](https://www.youtube.com/watch?v=j151jUMTuIA&list=WL&index=2&ab_channel=HienNguyen)*
