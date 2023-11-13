@@ -3,7 +3,7 @@ theme: "papermod"
 title: "DuyKa's Blog"
 Copyright: |
         © 2020 - 2023 DuyKa's Blog  
-        nguyenlukhanhduy@gmail.com
+        →
 paginate: 10
 disableHugoGeneratorInject: true
 markup:
