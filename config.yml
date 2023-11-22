@@ -36,6 +36,7 @@ menu:
 params:
     ShowPostNavLinks: true
     disableSpecial1stPost: true
+    defaultTheme: light
     homeInfoParams:
         Title: "Xin chào,"
         Content: |
