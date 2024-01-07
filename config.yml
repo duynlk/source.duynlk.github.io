@@ -35,11 +35,5 @@ menu:
           weight: 40
 params:
     ShowPostNavLinks: true
-    disableSpecial1stPost: true
+    disableSpecial1stPost: false
     defaultTheme: light
-    homeInfoParams:
-        Title: "Xin chào,"
-        Content: |
-            -- Chiếc Blog mà bạn đang xem là tổng hợp những bài thơ/nhạc do mình - Nguyễn Lữ Khánh Duy, sáng tác, phỏng dịch và chuyển ngữ kể từ năm 2020.  
-            -- Mình thường lấy bút danh là **#DuyKa** khi gửi bài trên [ThiVien.net](https://www.thivien.net/translator/DuyKa), các cuộc thi & hội nhóm thơ-văn.  
-            -- Cảm ơn bạn đã ghé qua đây, rất mong nhận được ý kiến đóng góp, phê bình từ bạn ^^
