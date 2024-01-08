@@ -4,7 +4,7 @@ date: 2023-06-10T19:05:50+07:00
 contest: false
 translate-poem: false
 translate-music: false
-tags: ["tuổi học trò", "Cần Thơ"]
+tags: ["tuổi học trò", "viết ở Cần Thơ"]
 ---
 Ta không thể về đón mùa hạ cùng nhau  
 chú bảo vệ già vẫn còn ngồi ở đó  

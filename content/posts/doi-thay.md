@@ -2,7 +2,7 @@
 title: "Đổi thay"
 date: 2021-11-02T15:08:06+07:00
 contest: false
-tags: ["tuổi học trò", "Cần Thơ"]
+tags: ["tuổi học trò", "viết ở Cần Thơ"]
 ---
 Không còn bảng đen  
 không còn ghế đá  

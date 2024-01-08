@@ -2,7 +2,7 @@
 title: "Ngoài kia mùa xuân tới"
 date: 2022-12-22T20:45:28+07:00
 contest: false
-tags: ["mùa xuân", "Cần Thơ"]
+tags: ["mùa xuân", "viết ở Cần Thơ"]
 ---
 *Tết Nguyên đán Quý Mão 2023.*  
   

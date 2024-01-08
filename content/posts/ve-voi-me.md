@@ -2,7 +2,7 @@
 title: "Về với mẹ"
 date: 2023-01-13T22:08:42+07:00
 contest: true
-tags: ["gia đình", "mùa xuân", "bài dự thi", "chứng nhận tham gia", "Cần Thơ"]
+tags: ["gia đình", "mùa xuân", "bài dự thi", "chứng nhận tham gia", "viết ở Cần Thơ"]
 ---
 *Tết Nguyên đán Quý Mão 2023.  
 Bài tham dự cuộc thi viết "Đi Để Trở Về" do Fanpage "Tivi Màu" tổ chức.*  

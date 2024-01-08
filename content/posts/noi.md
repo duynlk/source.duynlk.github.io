@@ -4,7 +4,7 @@ date: 2023-09-07T18:52:27+07:00
 contest: false
 translate-poem: false
 translate-music: false
-tags: ["gia đình", "Cần Thơ"]
+tags: ["gia đình", "viết ở Cần Thơ"]
 ---
 Con về mở cửa, nhà hiu quạnh  
 bưởi rụng, cau khô, cỏ mọc vườn  

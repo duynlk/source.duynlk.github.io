@@ -4,7 +4,7 @@ date: 2023-05-01T19:08:23+07:00
 contest: false
 translate-poem: false
 translate-music: false
-tags: ["tuổi học trò", "Bến Tre"]
+tags: ["tuổi học trò", "viết ở Bến Tre"]
 ---
 Tôi trở về đây, không có em  
 ghế xưa, bàn cũ, góc tường quen  

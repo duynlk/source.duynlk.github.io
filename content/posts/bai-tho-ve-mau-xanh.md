@@ -2,7 +2,7 @@
 title: "Bài thơ về màu xanh"
 date: 2023-02-05T19:42:37+07:00
 contest: true
-tags: ["môi trường", "bài dự thi", "Cần Thơ"]
+tags: ["môi trường", "bài dự thi", "viết ở Cần Thơ"]
 ---
 *Bài tham dự cuộc thi "Thơ hay 2023" do Tạp chí Văn Nghệ TP.HCM tổ chức.*  
   

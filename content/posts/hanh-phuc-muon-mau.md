@@ -2,7 +2,7 @@
 title: "Hạnh phúc muôn màu"
 date: 2022-12-25T19:58:23+07:00
 contest: false
-tags: ["sống", "Cần Thơ"]
+tags: ["sống", "viết ở Cần Thơ"]
 ---
 *Nghề nghiệp/lựa chọn nào cũng đều đáng trân trọng như nhau.*  
   

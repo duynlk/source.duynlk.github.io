@@ -4,7 +4,7 @@ date: 2023-04-08T15:28:27+07:00
 contest: false
 translate-poem: true
 translate-music: false
-tags: ["dịch thơ", "Ada Limón", "sống", "Cần Thơ", "thơ Mỹ"]
+tags: ["dịch thơ", "Ada Limón", "sống", "viết ở Cần Thơ", "thơ Mỹ"]
 ---
 **On a pink moon**  
 *Tác giả: Ada Limón (Mỹ)*  

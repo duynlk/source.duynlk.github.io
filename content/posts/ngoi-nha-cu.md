@@ -2,7 +2,7 @@
 title: "Ngôi nhà cũ"
 date: 2021-10-23T23:59:25+07:00
 contest: false
-tags: ["gia đình", "Cần Thơ"]
+tags: ["gia đình", "viết ở Cần Thơ"]
 ---
 Ngôi nhà cũ  
 gia đình quây quần bên mâm cơm buổi chiều  

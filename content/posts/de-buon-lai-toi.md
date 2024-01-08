@@ -2,7 +2,7 @@
 title: "Để buồn lại tôi"
 date: 2023-03-18T23:44:32+07:00
 contest: false
-tags: ["tình yêu", "Cần Thơ"]
+tags: ["tình yêu", "viết ở Cần Thơ"]
 ---
 *Nếu bạn đã từng đọc bài thơ [Thôi thế là thôi nhé!](/posts/thoi-the-la-thoi-nhe/) , thì bài thơ này mình tạm gọi là "tiền truyện". Mình muốn khai thác thêm về phần cảm xúc, "nỗi giày vò" của người con trai trong câu chuyện đó.*
   

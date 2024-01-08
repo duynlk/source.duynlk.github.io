@@ -2,7 +2,7 @@
 title: "Mẹ là mùa xuân"
 date: 2023-01-02T08:59:54+07:00
 contest: true
-tags: ["gia đình", "mùa xuân", "bài dự thi", "Cần Thơ"]
+tags: ["gia đình", "mùa xuân", "bài dự thi", "viết ở Cần Thơ"]
 ---
 *Tết Nguyên đán Quý Mão 2023.  
 Bài tham dự Cuộc thi viết "Về Cội" do Group Facebook "Viết" tổ chức.*  

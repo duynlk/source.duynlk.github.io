@@ -2,7 +2,7 @@
 title: "Vỡ"
 date: 2022-12-27T22:08:03+07:00
 contest: false
-tags: ["tình yêu", "Cần Thơ"]
+tags: ["tình yêu", "viết ở Cần Thơ"]
 ---
 *Mỗi năm lại nghe tin một thằng bạn chia tay với người yêu.  
 Mấy ông cố ơi, tụi bây bị làm sao đấy?*  

@@ -2,7 +2,7 @@
 title: "Lời Thầy"
 date: 2021-11-24T20:55:46+07:00
 contest: false
-tags: ["tuổi học trò", "Cần Thơ"]
+tags: ["tuổi học trò", "viết ở Cần Thơ"]
 ---
 *Kỷ niệm Ngày Nhà giáo Việt Nam 2021.*  
   

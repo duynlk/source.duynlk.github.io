@@ -2,7 +2,7 @@
 title: "Về nhà Mẹ chỉ có thương thôi"
 date: 2023-03-09T00:47:57+07:00
 contest: false
-tags: ["gia đình", "Cần Thơ"]
+tags: ["gia đình", "viết ở Cần Thơ"]
 ---
 Ngày xưa Mẹ cũng là công chúa  
 cũng trẻ như con, tuổi bây giờ  

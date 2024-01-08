@@ -2,7 +2,7 @@
 title: "Haiku Việt - Nhật"
 date: 2023-03-02T22:35:59+07:00
 contest: true
-tags: ["đất nước", "bài dự thi", "Cần Thơ"]
+tags: ["đất nước", "bài dự thi", "viết ở Cần Thơ"]
 ---
 *Bài tham dự cuộc thi sáng tác Thơ Haiku do "Hội Hữu nghị Việt Nam - Nhật Bản Tp. Hải Phòng" kết hợp cùng "Cung Văn hóa Lao động Hữu nghị Việt Tiệp" tổ chức.*  
   

@@ -2,7 +2,7 @@
 title: "Bệnh nghĩ nhiều"
 date: 2023-02-03T23:56:21+07:00
 contest: false
-tags: ["trải nghiệm", "Cần Thơ"]
+tags: ["trải nghiệm", "viết ở Cần Thơ"]
 ---
 Mấy rày đau chẳng khỏi  
 thuốc uống chỉ cầm hơi  

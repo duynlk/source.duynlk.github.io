@@ -4,7 +4,7 @@ date: 2023-05-21T11:51:01+07:00
 contest: true
 translate-poem: false
 translate-music: false
-tags: ["tình yêu", "bài dự thi", "Cần Thơ", "Những Ngón Tay Đan"]
+tags: ["tình yêu", "bài dự thi", "viết ở Cần Thơ", "Những Ngón Tay Đan"]
 ---
 *Bài tham dự Minigame "Không Chơi Tiếc Ráng Chịu" do Group Facebook "Những Ngón Tay Đan" tổ chức. Chủ đề: Tháng Năm Trôi.*  
   

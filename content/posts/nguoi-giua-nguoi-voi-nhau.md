@@ -2,7 +2,7 @@
 title: "Người giữa người với nhau"
 date: 2022-12-18T00:09:27+07:00
 contest: false
-tags: ["sống", "Bến Tre", "Cần Thơ"]
+tags: ["sống", "viết ở Bến Tre", "viết ở Cần Thơ"]
 ---
 *Viết trên chuyến đi từ Bến Tre ~ Cần Thơ.*  
   

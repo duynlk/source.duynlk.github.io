@@ -2,7 +2,7 @@
 title: "Tình âm dương"
 date: 2023-01-06T00:23:50+07:00
 contest: false
-tags: ["tình yêu", "Cần Thơ"]
+tags: ["tình yêu", "viết ở Cần Thơ"]
 ---
 *Tôi từng nghe một câu nói rất hay: "Chia tay cũng được, xin đừng cách biệt âm dương".  
 Chúng ta đã đọc rất nhiều về nỗi đau của người ở lại. Vậy còn người ra đi, nỗi đau đó sẽ như thế nào?*  

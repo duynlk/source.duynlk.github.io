@@ -4,7 +4,7 @@ date: 2023-06-25T20:29:40+07:00
 contest: false
 translate-poem: false
 translate-music: false
-tags: ["tình yêu", "Bến Tre", "thơ phổ nhạc"]
+tags: ["tình yêu", "viết ở Bến Tre", "thơ phổ nhạc"]
 ---
 Em về đi nhé  
 người ta quên rồi  

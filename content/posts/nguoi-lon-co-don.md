@@ -2,7 +2,7 @@
 title: "Người lớn cô đơn"
 date: 2022-12-30T19:30:10+07:00
 contest: false
-tags: ["sống", "Cần Thơ"]
+tags: ["sống", "viết ở Cần Thơ"]
 ---
 *Trở lại là chính mình sau một ngày dài làm việc: không còn chức danh, không còn quyền lực. Cởi vỏ bọc người lớn bên ngoài, chúng ta lại là "những đứa trẻ" tội nghiệp. "Những đứa trẻ" như chúng ta đang buồn về điều gì?*  
   

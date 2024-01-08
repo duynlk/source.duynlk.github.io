@@ -2,7 +2,7 @@
 title: "Tôi sẽ về, Huế ơi!"
 date: 2023-03-26T00:37:00+07:00
 contest: true
-tags: ["đất nước", "bài dự thi", "Bến Tre", "Huế"]
+tags: ["đất nước", "bài dự thi", "viết ở Bến Tre", "Huế"]
 ---
 *Bài tham dự cuộc thi "Thơ Huế 2023" do "Tạp chí Sông Hương" tổ chức.*  
   

@@ -3,7 +3,7 @@ title: "Về với mẹ (II)"
 date: 2023-04-14T22:43:41+07:00
 contest: false
 translate: false
-tags: ["gia đình", "Cần Thơ"]
+tags: ["gia đình", "viết ở Cần Thơ"]
 ---
 Mười tám tuổi, con xa gia đình  
 mẹ ôm chầm lấy con và khóc  

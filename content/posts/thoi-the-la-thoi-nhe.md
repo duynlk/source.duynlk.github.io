@@ -2,7 +2,7 @@
 title: "Thôi thế là thôi nhé!"
 date: 2022-12-04T20:37:36+07:00
 contest: false
-tags: ["tình yêu", "Cần Thơ"]
+tags: ["tình yêu", "viết ở Cần Thơ"]
 ---
 *Tản mạn sau khi xem xong một đoạn phim buồn. Góp nhặt một chút ngôn từ và hình ảnh xưa cũ từ thơ Nguyễn Bính & Hoàng Cầm.*  
   

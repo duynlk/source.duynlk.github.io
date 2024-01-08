@@ -2,7 +2,7 @@
 title: "Không đề cho Tháng Tư"
 date: 2023-04-01T15:58:07+07:00
 contest: false
-tags: ["tình yêu", "sống", "Cần Thơ"]
+tags: ["tình yêu", "sống", "viết ở Cần Thơ"]
 ---
 Tháng Tư về rồi, em  
 hoa giấy vừa reo gió  

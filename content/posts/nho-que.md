@@ -2,7 +2,7 @@
 title: "Nhớ quê"
 date: 2021-10-23T23:48:57+07:00
 contest: false
-tags: ["gia đình", "Cần Thơ"]
+tags: ["gia đình", "viết ở Cần Thơ"]
 ---
 Quê mình thì rất đẹp  
 nhưng con thì phải đi  

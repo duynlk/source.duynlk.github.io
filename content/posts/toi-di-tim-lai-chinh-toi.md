@@ -2,7 +2,7 @@
 title: "Tôi đi tìm lại chính tôi"
 date: 2023-04-04T23:35:48+07:00
 contest: true
-tags: ["trải nghiệm", "bài dự thi", "Cần Thơ"]
+tags: ["trải nghiệm", "bài dự thi", "viết ở Cần Thơ"]
 ---
 *Bài tham dự minigame "Mượn Hình Tỏ Chữ" do Fanpage "HIVE Stories - Nơi những câu chuyện bắt đầu" tổ chức.*  
   

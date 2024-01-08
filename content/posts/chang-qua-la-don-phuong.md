@@ -2,7 +2,7 @@
 title: "Chẳng qua là đơn phương"
 date: 2023-03-01T21:44:22+07:00
 contest: false
-tags: ["tình yêu", "Cần Thơ"]
+tags: ["tình yêu", "viết ở Cần Thơ"]
 ---
 *Cảm tác từ nhạc phẩm "Tình Đơn Phương" (nhạc Hoa, lời Việt: Chu Minh Ký)*  
   

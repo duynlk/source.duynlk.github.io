@@ -2,7 +2,7 @@
 title: "Một ngày mất điện"
 date: 2023-01-10T23:17:24+07:00
 contest: false
-tags: ["trải nghiệm", "Cần Thơ"]
+tags: ["trải nghiệm", "viết ở Cần Thơ"]
 ---
 Một ngày bỗng dưng .. mất điện  
 nắng oi nghiêng cả phố phường  

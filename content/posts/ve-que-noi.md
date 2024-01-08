@@ -2,7 +2,7 @@
 title: "Về quê nội"
 date: 2022-12-14T21:44:51+07:00
 contest: false
-tags: ["gia đình", "Cần Thơ"]
+tags: ["gia đình", "viết ở Cần Thơ"]
 ---
 *Một ngày nào đó những đứa trẻ như chúng ta sẽ trở nên già nua. Con cái của chúng ta có cuộc đời của riêng nó. Và ta lại cô đơn trong chính ngôi nhà của mình.*  
   

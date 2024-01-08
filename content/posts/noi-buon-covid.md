@@ -2,7 +2,7 @@
 title: "Nỗi buồn Covid"
 date: 2021-10-30T23:21:58+07:00
 contest: false
-tags: ["Covid 2021", "Cần Thơ"]
+tags: ["Covid 2021", "viết ở Cần Thơ"]
 ---
 Năm nay dịch giã lại về  
 xóm làng ngày đêm mất ngủ  

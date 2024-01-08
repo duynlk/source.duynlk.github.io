@@ -2,7 +2,7 @@
 title: "Uống trà với bố"
 date: 2023-01-25T14:14:01+07:00
 contest: false
-tags: ["gia đình", "mùa xuân", "Bến Tre"]
+tags: ["gia đình", "mùa xuân", "viết ở Bến Tre"]
 ---
 *Tết Nguyên đán Quý Mão 2023.*  
   

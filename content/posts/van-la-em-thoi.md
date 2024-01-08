@@ -2,7 +2,7 @@
 title: "Vẫn là em thôi"
 date: 2023-01-18T22:09:57+07:00
 contest: false
-tags: ["sống", "Cần Thơ"]
+tags: ["sống", "viết ở Cần Thơ"]
 ---
 *Viết cho những "nạn nhân" của "văn hóa body-shaming".*  
   

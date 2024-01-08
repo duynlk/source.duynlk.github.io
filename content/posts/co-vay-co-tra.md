@@ -2,7 +2,7 @@
 title: "Có vay có trả"
 date: 2023-01-08T07:57:28+07:00
 contest: false
-tags: ["sống", "Bến Tre", "Cần Thơ"]
+tags: ["sống", "viết ở Bến Tre", "viết ở Cần Thơ"]
 ---
 Đứa con anh nay chừng mười ba tuổi  
 hỏi cha đâu, mẹ nói: bận đi làm  

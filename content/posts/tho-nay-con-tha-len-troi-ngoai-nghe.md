@@ -2,7 +2,7 @@
 title: "Thơ này con thả lên trời, Ngoại nghe!"
 date: 2022-12-02T23:14:14+07:00
 contest: false
-tags: ["gia đình", "Cần Thơ"]
+tags: ["gia đình", "viết ở Cần Thơ"]
 ---
 *Ngoại mất gần 3 năm con mới viết nổi một bài thơ về Ngoại.  
 Thằng cháu này bất hiếu quá phải không?*  

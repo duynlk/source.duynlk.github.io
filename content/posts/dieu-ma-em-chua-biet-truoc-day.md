@@ -4,7 +4,7 @@ date: 2023-04-15T21:26:41+07:00
 contest: false
 translate-poem: true
 translate-music: false
-tags: ["dịch thơ", "Ada Limón", "tình yêu", "Cần Thơ", "thơ Mỹ"]
+tags: ["dịch thơ", "Ada Limón", "tình yêu", "viết ở Cần Thơ", "thơ Mỹ"]
 ---
 **What I didn't know before**  
 *Tác giả: Ada Limón (Mỹ)*  

@@ -2,7 +2,7 @@
 title: "Người giữa người với nhau (II)"
 date: 2023-02-11T22:26:39+07:00
 contest: true
-tags: ["sống", "bài dự thi", "Cần Thơ"]
+tags: ["sống", "bài dự thi", "viết ở Cần Thơ"]
 ---
 *Bài tham dự cuộc thi sáng tác thơ "Áng Thơ Trên Những Cánh Diều" trong khuôn khổ liên hoan sách "Read&Rise Bookfest 2023" lần đầu tiên tại Việt Nam, do "UN Women Việt Nam" tổ chức.*  
   

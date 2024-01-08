@@ -2,7 +2,7 @@
 title: "Điệp khúc ru em"
 date: 2022-12-20T22:33:20+07:00
 contest: false
-tags: ["tình yêu", "Cần Thơ"]
+tags: ["tình yêu", "viết ở Cần Thơ"]
 ---
 *Một thử nghiệm của tôi với vần bằng khi kết thúc câu.*  
   

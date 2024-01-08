@@ -4,7 +4,7 @@ date: 2023-08-13T20:59:40+07:00
 contest: false
 translate-poem: true
 translate-music: false
-tags: ["dịch thơ", "Cần Thơ", "William Stanley Merwin", "thơ Mỹ"]
+tags: ["dịch thơ", "viết ở Cần Thơ", "William Stanley Merwin", "thơ Mỹ"]
 ---
 **Rain travel**  
 *Tác giả: William Stanley Merwin (Mỹ)*  

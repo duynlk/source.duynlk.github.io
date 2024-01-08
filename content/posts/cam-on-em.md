@@ -2,7 +2,7 @@
 title: "Cảm ơn em"
 date: 2021-10-26T21:24:11+07:00
 contest: false
-tags: ["tình yêu", "Cần Thơ"]
+tags: ["tình yêu", "viết ở Cần Thơ"]
 ---
 *Tặng Cẩm Tiên.*  
   

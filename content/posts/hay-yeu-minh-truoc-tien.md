@@ -2,7 +2,7 @@
 title: "Hãy yêu mình trước tiên"
 date: 2023-02-13T22:16:39+07:00
 contest: false
-tags: ["tình yêu", "Cần Thơ"]
+tags: ["tình yêu", "viết ở Cần Thơ"]
 ---
 *Valentine 2023, viết tặng những trái tim đã đi qua tổn thương.*  
   

@@ -2,7 +2,7 @@
 title: "Những nấm mồ của chúng ta"
 date: 2023-02-20T21:50:10+07:00
 contest: false
-tags: ["sống", "Cần Thơ"]
+tags: ["sống", "viết ở Cần Thơ"]
 ---
 Tôi đi qua  
 những nấm mồ vừa chôn  

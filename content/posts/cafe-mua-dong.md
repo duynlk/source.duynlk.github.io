@@ -2,7 +2,7 @@
 title: "Cafe mùa đông"
 date: 2022-12-08T21:23:06+07:00
 contest: false
-tags: ["tình yêu", "Cần Thơ"]
+tags: ["tình yêu", "viết ở Cần Thơ"]
 ---
 *Một thử nghiệm của tôi với dòng thơ 6 chữ.*  
   

@@ -4,7 +4,7 @@ date: 2020-01-25T21:05:19+07:00
 contest: false
 translate-poem: false
 translate-music: true
-tags: ["dịch nhạc", "gia đình", "Cần Thơ"]
+tags: ["dịch nhạc", "gia đình", "viết ở Cần Thơ"]
 ---
 **Mẹ Ta Trả Nhớ Về Không**  
 *thơ: Đỗ Trung Quân, nhạc: BaTE Thanh Thiện Trần*  

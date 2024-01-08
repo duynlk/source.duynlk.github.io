@@ -2,7 +2,7 @@
 title: "Xa nhà"
 date: 2023-04-02T13:06:41+07:00
 contest: true
-tags: ["gia đình", "bài dự thi", "chứng nhận tham gia", "Cần Thơ"]
+tags: ["gia đình", "bài dự thi", "chứng nhận tham gia", "viết ở Cần Thơ"]
 ---
 *Bài tham dự cuộc thi "Gia Đình Và Tuổi Thơ" do Fanpage "Nhắm Mắt Nhỏ Nhìn Thế Giới To" tổ chức.*  
   

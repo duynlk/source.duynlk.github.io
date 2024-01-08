@@ -4,7 +4,7 @@ date: 2024-01-06T20:01:04+07:00
 contest: false
 translate-poem: false
 translate-music: false
-tags: ["gia đình", "Cần Thơ"]
+tags: ["gia đình", "viết ở Cần Thơ", "mùa xuân"]
 ---
 Cuối năm trời lành lạnh  
 nhớ gì như nhớ nhà  
